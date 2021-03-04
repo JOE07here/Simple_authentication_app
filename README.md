@@ -1,2 +1,2 @@
-# Sample_app
+# Simple_app
 simple authentication app.
